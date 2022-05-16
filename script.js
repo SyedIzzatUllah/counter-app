@@ -29,6 +29,6 @@ function color() {
                     result.style.color = "#37b24d";
           }
           else {
-                    result.style.color = "#ffffff"
+                    result.style.color = "#ffffff" 
           }
 }
