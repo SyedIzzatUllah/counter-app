@@ -11,7 +11,7 @@ decrease.addEventListener("click", () => {
 })
 reset.addEventListener("click", () => {
           result.innerHTML = 0;
-          color();
+          color(); 
 })
 increase.addEventListener("click", () => {
           result.innerHTML++;
