@@ -1,4 +1,4 @@
-// step - 1
+8// step - 1
 const result = document.querySelector(".result");
 const decrease = document.querySelector(".decrease");
 const reset = document.querySelector(".reset");
@@ -11,7 +11,7 @@ decrease.addEventListener("click", () => {
 }) 
 reset.addEventListener("click", () => {
           result.innerHTML = 0;
-          color(); 
+          color();  
 })
 increase.addEventListener("click", () => {
           result.innerHTML++;
