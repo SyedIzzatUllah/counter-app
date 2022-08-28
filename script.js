@@ -8,7 +8,7 @@ const increase = document.querySelector(".increase");
 decrease.addEventListener("click", () => {
           result.innerHTML--;
           color();
-})
+}) 
 reset.addEventListener("click", () => {
           result.innerHTML = 0;
           color(); 
